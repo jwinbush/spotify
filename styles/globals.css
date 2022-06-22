@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components { /*added a icon at an specific size to make tailwind smooth*/
+    .button {
+        @apply h-5 w-5 cursor-pointer hover:scale-125 transition transform duration-100 ease-out;
+    }
+}
