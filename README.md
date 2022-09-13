@@ -1,5 +1,6 @@
-# npm install
-# npm run dev
+# terminal
+npm install
+npm run dev
 
 
 # Next.js + Tailwind CSS Example
