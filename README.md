@@ -3,6 +3,8 @@ Step 1: npm install
 <br>
 Step 2: npm run dev
 
+<img width="1440" alt="spotify" src="https://user-images.githubusercontent.com/102334772/191143259-06c6bb38-bbfa-4f21-a639-b367e78ea350.png">
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
